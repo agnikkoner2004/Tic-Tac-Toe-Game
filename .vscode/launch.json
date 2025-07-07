@@ -1,0 +1,115 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "doubleLL",
+      "request": "launch",
+      "mainClass": "Data_Structure.LinkedList.Linkedlist.doubleLL",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "zigzagPorb",
+      "request": "launch",
+      "mainClass": "For_me.Linkedlist.zigzagPorb",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "margeSort",
+      "request": "launch",
+      "mainClass": "For_me.Linkedlist.margeSort",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Detecting_cycle",
+      "request": "launch",
+      "mainClass": "For_me.Linkedlist.Detecting_cycle",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "For_me.Linkedlist.palindrome",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Bubblesort",
+      "request": "launch",
+      "mainClass": "For_me.DataStructure.Bubblesort",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Add_first",
+      "request": "launch",
+      "mainClass": "For_me.Linkedlist.Add_first",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "pairsum",
+      "request": "launch",
+      "mainClass": "For_me.Arraylist.pairsum",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "storewater",
+      "request": "launch",
+      "mainClass": "For_me.Arraylist.storewater",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Gridprob",
+      "request": "launch",
+      "mainClass": "For_me.Backtrack.Gridprob",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Nqueens",
+      "request": "launch",
+      "mainClass": "For_me.Backtrack.Nqueens",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Permudation",
+      "request": "launch",
+      "mainClass": "For_me.Backtrack.Permudation",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Subsets",
+      "request": "launch",
+      "mainClass": "For_me.Backtrack.Subsets",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/coding/.vscode",
+      "program": "d:/coding/.vscode/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

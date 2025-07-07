@@ -1,0 +1,199 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "multi",
+      "request": "launch",
+      "mainClass": "multi",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "demo.Demo",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Datatype",
+      "request": "launch",
+      "mainClass": "secondclass.Datatype",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "encapsulaton",
+      "request": "launch",
+      "mainClass": "tenthclass.encapsulaton",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "package1",
+      "request": "launch",
+      "mainClass": "tenthclass.package1",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "inheritance",
+      "request": "launch",
+      "mainClass": "tenthclass.inheritance",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "inharitance",
+      "request": "launch",
+      "mainClass": "tenthclass.inharitance",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "SixthClass.Main",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "ValentineWeekDates",
+      "request": "launch",
+      "mainClass": "SixthClass.ValentineWeekDates",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "oops1",
+      "request": "launch",
+      "mainClass": "tenthclass.oops1",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "SixthClass.Array",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Prob1",
+      "request": "launch",
+      "mainClass": "FifthClass.Prob1",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Functions",
+      "request": "launch",
+      "mainClass": "FifthClass.Functions",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "prob2",
+      "request": "launch",
+      "mainClass": "fifhclass.prob2",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "prob1",
+      "request": "launch",
+      "mainClass": "fifhclass.prob1",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "loops",
+      "request": "launch",
+      "mainClass": "fifhclass.loops",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "prob2",
+      "request": "launch",
+      "mainClass": "thirdclass.prob2",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "prob1",
+      "request": "launch",
+      "mainClass": "thirdclass.prob1",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "switchbreak",
+      "request": "launch",
+      "mainClass": "Thirdclass.switchbreak",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "ifelse",
+      "request": "launch",
+      "mainClass": "Thirdclass.ifelse",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "prob1",
+      "request": "launch",
+      "mainClass": "secondclass.prob1",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "datatype",
+      "request": "launch",
+      "mainClass": "secondclass.datatype",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "prob1",
+      "request": "launch",
+      "mainClass": "prob1",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "datatype",
+      "request": "launch",
+      "mainClass": "datatype",
+      "projectName": ".vscode_e0e6b0ec"
+    },
+    {
+      "type": "java",
+      "name": "Firstclass",
+      "request": "launch",
+      "mainClass": "Firstclass",
+      "projectName": ""
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/coding/.vscode",
+      "program": "d:/coding/.vscode/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
